@@ -1,0 +1,30 @@
+.main{
+	height: 200px;
+	width: 1000px;
+	box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+img{
+	margin: 20px;
+}
+
+.load{
+	border: 1px solid blue;
+	height: 40px;
+	width: 500px;
+	position: relative;
+	left: 45%;
+	top: 0%;
+}
+.upload{
+	background-color: lightblue;
+	height: 40px;
+	width: 200px;
+	display: inline-block;
+	line-height: 40px;
+}
+p{
+	display: inline-block;
+	text-align: right;
+	width: 200px;
+}
